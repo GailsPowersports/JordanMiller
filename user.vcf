@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Austin;Dee;;;
+N:Miller;Jordan;;;
 FN: Jordan  Miller
 ORG:Gail's Powersports;
 TITLE:Sales Specialist
-EMAIL;type=INTERNET;type=WORK;type=pref:jmiller@feelthepower.com
+EMAIL;type=INTERNET;type=WORK;type=pref:JMiller@feelthepower.com
 TEL;type=WORK;type=VOICE:816 966 2222
 item1.ADR;type=WORK;type=pref:;;5900 E, MO-150\nGrandview, MO 64030;;;;
 item1.X-ABADR:sg
